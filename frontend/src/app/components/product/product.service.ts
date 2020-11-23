@@ -10,7 +10,7 @@ import { map, catchError } from 'rxjs/operators';
 })
 export class ProductService {
 
-  baseUrl = 'http://localhost:3001/products'
+  baseUrl = 'https://angular-crud-api.herokuapp.com/products'
 
   constructor(private snackBar: MatSnackBar, private http: HttpClient) { }
 
