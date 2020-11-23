@@ -8,3 +8,5 @@ do projeto.
 
 - `npm install` no diretório do backend e do frontend para instalar as dependências
 - Depois rodar o `npm start` nos dois diretórios e acessar o `http://localhost:4200/` para abrir a aplicação
+
+https://angular-crud-mu.vercel.app/
